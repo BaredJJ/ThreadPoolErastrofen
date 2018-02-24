@@ -1,0 +1,7 @@
+D:\coding\Thread\ThreadPoolErastrofen\ThreadPoolErastrofen\obj\Debug\ThreadPoolErastrofen.csprojResolveAssemblyReference.cache
+D:\coding\Thread\ThreadPoolErastrofen\ThreadPoolErastrofen\obj\Debug\ThreadPoolErastrofen.csproj.CoreCompileInputs.cache
+D:\coding\Thread\ThreadPoolErastrofen\ThreadPoolErastrofen\bin\Debug\ThreadPoolErastrofen.exe.config
+D:\coding\Thread\ThreadPoolErastrofen\ThreadPoolErastrofen\bin\Debug\ThreadPoolErastrofen.exe
+D:\coding\Thread\ThreadPoolErastrofen\ThreadPoolErastrofen\bin\Debug\ThreadPoolErastrofen.pdb
+D:\coding\Thread\ThreadPoolErastrofen\ThreadPoolErastrofen\obj\Debug\ThreadPoolErastrofen.exe
+D:\coding\Thread\ThreadPoolErastrofen\ThreadPoolErastrofen\obj\Debug\ThreadPoolErastrofen.pdb
